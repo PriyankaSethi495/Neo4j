@@ -1,4 +1,4 @@
-# 4. Neo4j graph database and recommendation system:
+# Neo4j graph database and recommendation system:
 
 **Problem:**
 The project required the integration of a Neo4j graph database and a recommendation system to facilitate efficient search and recommendation functionalities based on user input. Specifically, the project aimed to display components based on user search queries, necessitating the use of Neo4j for CRUD (Create, Read, Update, Delete) operations on sheets stored in CSV files, along with their associated metadata and values. Additionally, the project required the implementation of a basic recommendation system to provide users with relevant suggestions.
