@@ -13,4 +13,4 @@ To address these requirements, the following steps were undertaken:
 Through the integration of a Neo4j graph database and a recommendation system, the project successfully addressed the requirement to display components based on user search queries and provide relevant recommendations. The use of Neo4j facilitated efficient CRUD operations on data stored in CSV files, while the recommendation system utilized the graph structure to offer personalized suggestions to users. Overall, the project achieved its objectives of enhancing user experience through effective data management and recommendation functionalities.
 
 
-(Due to organization's confidentiality, the project code and screenshots cannot be uploaded to GitHub.)
+(**Note:** Due to organization's confidentiality, the project code and screenshots cannot be uploaded to GitHub.)
